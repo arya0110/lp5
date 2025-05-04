@@ -107,18 +107,4 @@ int main() {
     cout<<"\n";
     return 0;
 }
-________________________________________________________________________________________________________________________
 
-Output:
-
-Array elements are:
-83	86	77	15	93	35	86	92	49	21	
-Sequential Bubble Sort Time: 1.29e-06 sec
-Parallel Bubble Sort Time: 1.3e-06 sec
-Sequential Merge Sort Time: 6.78e-06 sec
-Parallel Merge Sort Time: 2.33e-06 sec
-After Sorting Array elements are:
-15	21	35	49	77	83	86	86	92	93	
-
-
-=== Code Execution Successful ===
