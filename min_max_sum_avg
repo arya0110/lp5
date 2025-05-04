@@ -1,3 +1,5 @@
+Implement min, max, sum, average opeartions using parallel reduction.
+
 #include <iostream>
 #include <vector>
 #include <chrono>
