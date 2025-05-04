@@ -1,3 +1,6 @@
+Implement HPC applications for AI and ML domain. Implementation of a 
+parallel linear regression model using MPI in AI/ML.
+
 # parallel_linear_regression.py
 from mpi4py import MPI
 import numpy as np
