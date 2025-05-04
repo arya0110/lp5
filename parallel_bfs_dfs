@@ -1,3 +1,6 @@
+Design and implement parallel breadth first search and depth first search based on
+existing algorithms using OpenMP. Use a tree or an undirected graph for bfs and dfs.
+
 #include <iostream>
 #include <vector>
 #include <stack>
